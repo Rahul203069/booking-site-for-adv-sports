@@ -72,7 +72,7 @@ const Navbar: React.FC = () => {
             )}
 
             <Link
-              href="/dashboard"
+              href="/"
               className={`hidden md:block text-sm font-medium px-4 py-2 rounded-full transition-colors ${
                 isHome ? "hover:bg-white/20" : "hover:bg-gray-100"
               }`}
