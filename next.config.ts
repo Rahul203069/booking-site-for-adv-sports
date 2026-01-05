@@ -9,7 +9,16 @@ const nextConfig = {
       },
       {
         protocol: 'https',
-        hostname: 'images.unsplash.com', // Added this as a common default for activity images
+        hostname: 'images.unsplash.com',
+      },
+      {
+        protocol: 'https',
+        hostname: 'picsum.photos',
+      },
+      // ADD THIS SECTION:
+      {
+        protocol: 'https',
+        hostname: 'i.pravatar.cc',
       },
     ],
   },
