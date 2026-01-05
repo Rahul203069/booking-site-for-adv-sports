@@ -20,16 +20,16 @@ export const ACTIVITIES: Activity[] = [
     rating: 4.9,
     reviewCount: 2450,
     images: [
-      'https://images.unsplash.com/photo-1530866495561-507c9faab2ed?auto=format&fit=crop&q=80&w=800',
-      'https://images.unsplash.com/photo-1519053245453-60f1b747055e?auto=format&fit=crop&q=80&w=800',
-      'https://images.unsplash.com/photo-1505535162959-9bbcb4ab22d6?auto=format&fit=crop&q=80&w=800'
+      'https://picsum.photos/seed/rafting1/800/600',
+      'https://picsum.photos/seed/rafting2/800/600',
+      'https://picsum.photos/seed/rafting3/800/600'
     ],
     difficulty: Difficulty.MODERATE,
     duration: '4 hours',
     vendor: {
       id: 'v1',
       name: 'Ganga Rapids',
-      avatarUrl: 'https://randomuser.me/api/portraits/men/32.jpg',
+      avatarUrl: 'https://i.pravatar.cc/150?img=32',
       joinedDate: '2016',
       rating: 4.8
     },
@@ -47,16 +47,16 @@ export const ACTIVITIES: Activity[] = [
     rating: 4.9,
     reviewCount: 1890,
     images: [
-      'https://images.unsplash.com/photo-1527668752968-14dc70a27c73?auto=format&fit=crop&q=80&w=800',
-      'https://images.unsplash.com/photo-1516546487979-34ba85885c07?auto=format&fit=crop&q=80&w=800',
-      'https://images.unsplash.com/photo-1465225314224-587cd83d322b?auto=format&fit=crop&q=80&w=800'
+      'https://picsum.photos/seed/paragliding1/800/600',
+      'https://picsum.photos/seed/paragliding2/800/600',
+      'https://picsum.photos/seed/paragliding3/800/600'
     ],
     difficulty: Difficulty.MODERATE,
     duration: '45 mins',
     vendor: {
       id: 'v2',
       name: 'Sky High Aero',
-      avatarUrl: 'https://randomuser.me/api/portraits/women/44.jpg',
+      avatarUrl: 'https://i.pravatar.cc/150?img=44',
       joinedDate: '2018',
       rating: 4.9
     },
@@ -74,16 +74,16 @@ export const ACTIVITIES: Activity[] = [
     rating: 4.8,
     reviewCount: 1200,
     images: [
-      'https://images.unsplash.com/photo-1544551763-46a8723ba3f9?auto=format&fit=crop&q=80&w=800',
-      'https://images.unsplash.com/photo-1682687982501-1e58ab814714?auto=format&fit=crop&q=80&w=800',
-      'https://images.unsplash.com/photo-1511909525232-61113c912358?auto=format&fit=crop&q=80&w=800'
+      'https://picsum.photos/seed/scuba1/800/600',
+      'https://picsum.photos/seed/scuba2/800/600',
+      'https://picsum.photos/seed/scuba3/800/600'
     ],
     difficulty: Difficulty.EASY,
     duration: '3 hours',
     vendor: {
       id: 'v3',
       name: 'Blue Planet Divers',
-      avatarUrl: 'https://randomuser.me/api/portraits/men/85.jpg',
+      avatarUrl: 'https://i.pravatar.cc/150?img=12',
       joinedDate: '2015',
       rating: 4.9
     },
@@ -101,16 +101,16 @@ export const ACTIVITIES: Activity[] = [
     rating: 4.7,
     reviewCount: 560,
     images: [
-      'https://images.unsplash.com/photo-1548231267-3f9df416d860?auto=format&fit=crop&q=80&w=800',
-      'https://images.unsplash.com/photo-1518206411130-318451842eb3?auto=format&fit=crop&q=80&w=800',
-      'https://images.unsplash.com/photo-1626621341120-d01006e2361b?auto=format&fit=crop&q=80&w=800'
+      'https://picsum.photos/seed/chadar1/800/600',
+      'https://picsum.photos/seed/chadar2/800/600',
+      'https://picsum.photos/seed/chadar3/800/600'
     ],
     difficulty: Difficulty.EXTREME,
     duration: '9 days',
     vendor: {
       id: 'v4',
       name: 'Himalayan Explorers',
-      avatarUrl: 'https://randomuser.me/api/portraits/men/22.jpg',
+      avatarUrl: 'https://i.pravatar.cc/150?img=22',
       joinedDate: '2012',
       rating: 4.6
     },
@@ -128,16 +128,16 @@ export const ACTIVITIES: Activity[] = [
     rating: 4.8,
     reviewCount: 930,
     images: [
-      'https://images.unsplash.com/photo-1551524559-8af4e6624178?auto=format&fit=crop&q=80&w=800',
-      'https://images.unsplash.com/photo-1520697956550-9c2f6d231904?auto=format&fit=crop&q=80&w=800',
-      'https://images.unsplash.com/photo-1596473536124-42b78d227318?auto=format&fit=crop&q=80&w=800'
+      'https://picsum.photos/seed/skiing1/800/600',
+      'https://picsum.photos/seed/skiing2/800/600',
+      'https://picsum.photos/seed/skiing3/800/600'
     ],
     difficulty: Difficulty.MODERATE,
     duration: '6 hours',
     vendor: {
       id: 'v5',
       name: 'Kashmir Alpine',
-      avatarUrl: 'https://randomuser.me/api/portraits/women/12.jpg',
+      avatarUrl: 'https://i.pravatar.cc/150?img=33',
       joinedDate: '2019',
       rating: 4.7
     },
@@ -155,16 +155,16 @@ export const ACTIVITIES: Activity[] = [
     rating: 4.6,
     reviewCount: 3100,
     images: [
-      'https://images.unsplash.com/photo-1599661046289-e31897846e41?auto=format&fit=crop&q=80&w=800',
-      'https://images.unsplash.com/photo-1628100236302-601968848d5d?auto=format&fit=crop&q=80&w=800',
-      'https://images.unsplash.com/photo-1586521995568-39bab2f78c3c?auto=format&fit=crop&q=80&w=800'
+      'https://picsum.photos/seed/camel1/800/600',
+      'https://picsum.photos/seed/camel2/800/600',
+      'https://picsum.photos/seed/camel3/800/600'
     ],
     difficulty: Difficulty.EASY,
     duration: '5 hours',
     vendor: {
       id: 'v6',
       name: 'Desert Royal',
-      avatarUrl: 'https://randomuser.me/api/portraits/men/55.jpg',
+      avatarUrl: 'https://i.pravatar.cc/150?img=55',
       joinedDate: '2014',
       rating: 4.5
     },
@@ -182,16 +182,16 @@ export const ACTIVITIES: Activity[] = [
     rating: 4.7,
     reviewCount: 850,
     images: [
-      'https://images.unsplash.com/photo-1596423736774-4b95f1784c48?auto=format&fit=crop&q=80&w=800',
-      'https://images.unsplash.com/photo-1534960331070-5b565a0c32b0?auto=format&fit=crop&q=80&w=800',
-      'https://images.unsplash.com/photo-1510797215324-95aa89f43c33?auto=format&fit=crop&q=80&w=800'
+      'https://picsum.photos/seed/bamboo1/800/600',
+      'https://picsum.photos/seed/bamboo2/800/600',
+      'https://picsum.photos/seed/bamboo3/800/600'
     ],
     difficulty: Difficulty.MODERATE,
     duration: '8 hours',
     vendor: {
       id: 'v7',
       name: 'Eco Kerala',
-      avatarUrl: 'https://randomuser.me/api/portraits/women/68.jpg',
+      avatarUrl: 'https://i.pravatar.cc/150?img=68',
       joinedDate: '2017',
       rating: 4.8
     },
@@ -209,16 +209,16 @@ export const ACTIVITIES: Activity[] = [
     rating: 4.8,
     reviewCount: 620,
     images: [
-      'https://images.unsplash.com/photo-1600100598687-0b1a6a9b4f9d?auto=format&fit=crop&q=80&w=800',
-      'https://images.unsplash.com/photo-1522858547137-f1dcec554f55?auto=format&fit=crop&q=80&w=800',
-      'https://images.unsplash.com/photo-1575351881847-b3bf188d9d0a?auto=format&fit=crop&q=80&w=800'
+      'https://picsum.photos/seed/climbing1/800/600',
+      'https://picsum.photos/seed/climbing2/800/600',
+      'https://picsum.photos/seed/climbing3/800/600'
     ],
     difficulty: Difficulty.HARD,
     duration: '3 hours',
     vendor: {
       id: 'v8',
       name: 'Hampi Boulders',
-      avatarUrl: 'https://randomuser.me/api/portraits/men/90.jpg',
+      avatarUrl: 'https://i.pravatar.cc/150?img=15',
       joinedDate: '2016',
       rating: 4.9
     },
@@ -236,16 +236,16 @@ export const ACTIVITIES: Activity[] = [
     rating: 4.7,
     reviewCount: 440,
     images: [
-      'https://images.unsplash.com/photo-1502680390469-be75c86b636f?auto=format&fit=crop&q=80&w=800',
-      'https://images.unsplash.com/photo-1505506874110-6a7a69069a08?auto=format&fit=crop&q=80&w=800',
-      'https://images.unsplash.com/photo-1415931633537-35113956064f?auto=format&fit=crop&q=80&w=800'
+      'https://picsum.photos/seed/surfing1/800/600',
+      'https://picsum.photos/seed/surfing2/800/600',
+      'https://picsum.photos/seed/surfing3/800/600'
     ],
     difficulty: Difficulty.MODERATE,
     duration: '1.5 hours',
     vendor: {
       id: 'v9',
       name: 'Soul & Surf',
-      avatarUrl: 'https://randomuser.me/api/portraits/women/28.jpg',
+      avatarUrl: 'https://i.pravatar.cc/150?img=28',
       joinedDate: '2015',
       rating: 4.6
     },
@@ -263,16 +263,16 @@ export const ACTIVITIES: Activity[] = [
     rating: 4.5,
     reviewCount: 1100,
     images: [
-      'https://images.unsplash.com/photo-1544988775-68006b5d911a?auto=format&fit=crop&q=80&w=800',
-      'https://images.unsplash.com/photo-1476610182048-b716b8518aae?auto=format&fit=crop&q=80&w=800',
-      'https://images.unsplash.com/photo-1432405972618-c60b0225b8f9?auto=format&fit=crop&q=80&w=800'
+      'https://picsum.photos/seed/waterfall1/800/600',
+      'https://picsum.photos/seed/waterfall2/800/600',
+      'https://picsum.photos/seed/waterfall3/800/600'
     ],
     difficulty: Difficulty.MODERATE,
     duration: '6 hours',
     vendor: {
       id: 'v10',
       name: 'Goa Jungle Treks',
-      avatarUrl: 'https://randomuser.me/api/portraits/men/15.jpg',
+      avatarUrl: 'https://i.pravatar.cc/150?img=65',
       joinedDate: '2018',
       rating: 4.4
     },
